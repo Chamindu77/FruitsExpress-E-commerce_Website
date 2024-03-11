@@ -1,16 +1,20 @@
 # MERN Stack Fruit Shop Project
 
+[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
 This project is a simple fruit shop application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to browse through various fruits, add them to their cart, and place orders.
+
+---
 
 ## Table of Contents
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
+
+
+---
 
 ## Features
 
@@ -22,6 +26,10 @@ This project is a simple fruit shop application built using the MERN stack (Mong
 - View order history
 - Admin panel for managing fruits and orders
 
+
+---
+
+
 ## Technologies Used
 
 - MongoDB: Database to store fruits, users, and orders data
@@ -32,5 +40,8 @@ This project is a simple fruit shop application built using the MERN stack (Mong
 - JWT (JSON Web Tokens): For user authentication and authorization
 - Bcrypt.js: For hashing user passwords
 - Axios: Promise-based HTTP client for making requests to the backend API
+
+  [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 
