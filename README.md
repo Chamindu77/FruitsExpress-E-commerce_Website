@@ -31,14 +31,14 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## Technologies Used
 
-- MongoDB: Database to store fruits, users, and orders data
-- Express.js: Node.js web application framework for building APIs
-- React.js: Frontend JavaScript library for building user interfaces
-- Node.js: JavaScript runtime environment for server-side development
-- Bootstrap: Frontend framework for responsive design
-- JWT (JSON Web Tokens): For user authentication and authorization
-- Bcrypt.js: For hashing user passwords
-- Axios: Promise-based HTTP client for making requests to the backend API
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+- Bootstrap
+- JWT (JSON Web Tokens)
+- Bcrypt.js
+- Axios
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
