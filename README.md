@@ -40,6 +40,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 - Bcrypt.js
 - Axios
 
+---
+
 ## App Demo 
 
 ### User Home Page (Before SignUp)
@@ -58,6 +60,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <div>
 
 ![Screenshot 2024-03-15 223747](https://github.com/Chamindu77/FruitsExpress-E-commerce_Website/assets/117502200/794a127b-0e81-4f9d-9f61-22c959460835)
+
+---
+
 ![Screenshot 2024-03-15 223822](https://github.com/Chamindu77/FruitsExpress-E-commerce_Website/assets/117502200/af0727ed-f41b-4857-bb96-078154be4490)
 
     
@@ -81,7 +86,13 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <div>
 
 ![Screenshot 2024-03-15 224412](https://github.com/Chamindu77/FruitsExpress-E-commerce_Website/assets/117502200/50045d3a-55cc-4db6-a1a8-9522b813b538)
+
+---
+
 ![Screenshot 2024-03-15 224454](https://github.com/Chamindu77/FruitsExpress-E-commerce_Website/assets/117502200/aba2a23e-6080-4a94-b302-a1955895c914)
+
+---
+
 ![Screenshot 2024-03-15 224520](https://github.com/Chamindu77/FruitsExpress-E-commerce_Website/assets/117502200/6c8b44b7-5e92-4e0a-926e-c604b047779c)
 
 </div>
@@ -94,7 +105,13 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ![Screenshot 2024-03-15 232007](https://github.com/Chamindu77/FruitsExpress-E-commerce_Website/assets/117502200/432a8801-62f8-4d9f-a2be-c2edbccd4d21)
 ![Screenshot 2024-03-15 224638](https://github.com/Chamindu77/FruitsExpress-E-commerce_Website/assets/117502200/4b2d8907-6a09-4ced-8001-63cd3027e001)
+
+---
+
 ![Screenshot 2024-03-15 224755](https://github.com/Chamindu77/FruitsExpress-E-commerce_Website/assets/117502200/9ae200bf-72b0-4461-a00e-275f29361d35)
+
+---
+
 ![Screenshot 2024-03-15 224717](https://github.com/Chamindu77/FruitsExpress-E-commerce_Website/assets/117502200/d9814884-63ac-4e96-a7df-e365c3823535)
 
 </div>
