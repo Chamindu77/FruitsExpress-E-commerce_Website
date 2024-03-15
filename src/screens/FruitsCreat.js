@@ -193,9 +193,7 @@ export default function FruitsUpdate() {
           </div>
         </div>
       </div>
-      <div>
-        <Footer />
-      </div>
+      
     </>
   );
 }

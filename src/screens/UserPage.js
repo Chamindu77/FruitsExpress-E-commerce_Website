@@ -61,11 +61,12 @@ export default function UserPage() {
             <div className='carousel-caption' style={{ zIndex: "10" }}>
               <dev className="d-flex justify-content-center">
                 <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" value={search} onChange={(e) => { setSearch(e.target.value) }} />
-                
+
               </dev>
             </div>
             <div className="carousel-item active">
-              <img src="https://www.fruitdelivery.com.sg/image/cache/catalog/mainbanner/fruitdelivery-fruits-selection-1903x838.jpg" className="d-block h-20 w-100" style={{ filter: "brightness(150%)" }} alt="..." />
+              <img src="            https://www.desktopbackground.org/download/o/2012/11/21/487085_desktop-hd-images-of-fresh-fruits-and-vegetables-jpg_1600x900_h.jpg
+" className="d-block h-20 w-100" style={{ filter: "brightness(100%)" }} alt="..." />
             </div>
             <div className="carousel-item">
               <div style={{ position: "relative", width: "100%", paddingBottom: "56.25%" }}>
@@ -73,7 +74,7 @@ export default function UserPage() {
                   src="https://www.youtube.com/embed/X5wBUyn5cyM?autoplay=1&controls=0&loop=1&playlist=X5wBUyn5cyM&mute=1"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                   allowFullScreen
-                  style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%", filter: "brightness(150%)" }}
+         S         style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%", filter: "brightness(150%)" }}
                 ></iframe>
               </div>
 

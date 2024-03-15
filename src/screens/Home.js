@@ -74,13 +74,12 @@ export default function Home() {
               </div>
             </div>
             <div style={{ position: "relative", width: "100%", paddingBottom: "56.25%" }}>
-              <iframe
+              <img
               
-                src="https://www.youtube.com/embed/X5wBUyn5cyM?autoplay=1&controls=0&loop=1&playlist=X5wBUyn5cyM&mute=1"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-                style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%", filter: "brightness(120%)" }}
-              ></iframe>
+                src="https://www.fruitdelivery.com.sg/image/cache/catalog/mainbanner/fruitdelivery-fruits-selection-1903x838.jpg"
+                width="1220px"
+                height="495px"
+              ></img>
             </div>
             
 
