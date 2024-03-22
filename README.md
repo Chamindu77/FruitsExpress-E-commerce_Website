@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 - React.js
 - Node.js
 - Bootstrap
-- JWT (JSON Web Tokens)
+- JWT 
 - Bcrypt.js
 - Axios
 
