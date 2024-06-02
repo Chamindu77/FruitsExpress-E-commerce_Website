@@ -1,4 +1,4 @@
-# MERN Stack Fruit Shop Project
+# Fruit Shop - MERN Stack Project
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
